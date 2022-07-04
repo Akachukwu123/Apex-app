@@ -2,7 +2,7 @@
  
  <div class="body-main">
   <!--navbar codes begins here-->
-<nav class="bg-white border-gray-200 md:px-14 px-5 sm:px-4 py-2.5 rounded dark:bg-gray-800">
+<nav class="bg-white md:px-14 px-5 sm:px-4 py-2.5">
   <div class="container flex flex-wrap justify-between items-center mx-auto">
   <a href=" " class="flex items-center">
       <img src="./assets/logo.png" class="mr-3 h-6 sm:h-9" /> 
@@ -53,7 +53,7 @@
 
  <!-- Landing page codes begins here-->
 <div class="md:px-14 px-5 sm:grid grid-cols-2 gap-2 mx-auto py-5 ">
-        <div class="dark:bg-gray-900 sm:pt-0">
+        <div class="sm:pt-0">
            <h1 class="md:text-6xl font-bold text-4xl md:mt-12 mt-10">
             Start chatting with customers, anytime, anywhere with Apex
            </h1> 
