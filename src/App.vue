@@ -41,7 +41,7 @@
         <a href="#" class="hide block py-2 pr-4 pl-3 text-gray-700 border-b border-gray-100 hover:bg-gray-50 md:hover:bg-transparent md:border-0 md:hover:text-orange-400 md:p-0 md:dark:hover:text-white dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700">Login</a>
       </li>
       <li>
-        <button type="button" class="hide text-white bg-orange-400 focus:ring-4 font-medium rounded-md text-sm px-5 py-2.5 text-center mt-2 mr-3 md:mr-0 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Get Started Free</button>
+        <button type="button" class="hide text-white bg-orange-400 focus:ring-4 font-medium rounded-md text-sm px-5 py-2.5 text-center mt-2 mr-3 md:mr-0">Get Started Free</button>
       </li>
     </ul>
   </div>
