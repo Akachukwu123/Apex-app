@@ -11,7 +11,7 @@
       <div class="hidden justify-between items-center w-full md:flex md:w-auto" id=" ">
         <ul class="flex flex-col mt-4 md:flex-row md:space-x-8 md:mt-0 md:text-sm md:font-medium">
           <a href="#" class="log md:hover:text-orange-500" aria-current="page" style="margin-top:10px;">Login</a> 
-          <button type="button" class="text-white bg-orange-400 focus:ring-4 font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-3 md:mr-0 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Get Started Free</button>
+          <button type="button" class="text-white bg-orange-400 focus:ring-4 font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-3 md:mr-0">Get Started Free</button>
         </ul>
       </div>
       <button id="mybutton" data-collapse-toggle="mobile-menu-4" type="button" class="inline-flex items-center p-2 text-sm text-gray-500 rounded-lg md:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600" aria-controls="mobile-menu-4" aria-expanded="false">
