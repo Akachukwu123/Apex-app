@@ -79,7 +79,7 @@
             </div> 
         </div>
          
-        <div class="h-14 dark:bg-gray-900 sm:items-center sm:pt-0">
+        <div class="h-14 sm:items-center sm:pt-0">
           <img src="./assets/afro.png" class="md:mt-0 mt-12"> 
         </div>
   </div>
